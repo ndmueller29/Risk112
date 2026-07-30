@@ -1,6 +1,6 @@
 # Risk112
  
-A single-player, offline implementation of the classic board game **Risk**, built in Python with a full graphical interface.
+A multi-player, offline implementation of the classic board game **Risk**, built in Python with a full graphical interface.
  
 <img width="1298" height="775" alt="Risk112_screenshot" src="https://github.com/user-attachments/assets/e297215d-e65e-4b1c-9bb2-dc5f54e6a27f" />
 
@@ -15,7 +15,7 @@ Built as a term project for CMU's 15-112 (Fundamentals of Programming), this pro
 - **Pixel manipulation** to dynamically recolor the map — each territory was stored as a black-and-white image, and black pixels were recolored in real time to match the controlling player's color (my favorite part of the project)
 ## How to run
  
-This project uses [CMU Graphics](https://academy.cs.cmu.edu/desktop), which requires Python 3.10 or earlier.
+This project uses [CMU Graphics](https://academy.cs.cmu.edu/desktop).
  
 ```bash
 # Create a Python 3.10 environment (recommended)
