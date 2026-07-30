@@ -4,6 +4,9 @@ A multi-player, offline implementation of the classic board game **Risk**, built
  
 <img width="1298" height="775" alt="Risk112_screenshot" src="https://github.com/user-attachments/assets/e297215d-e65e-4b1c-9bb2-dc5f54e6a27f" />
 
+## Demo
+
+https://www.youtube.com/watch?v=Gdut6j3RYKI&t=2s
  
 ## About
  
