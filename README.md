@@ -37,5 +37,3 @@ python Risk112.py
 - Python
 - [CMU Graphics](https://academy.cs.cmu.edu/desktop)
 
-
- <img width="1298" height="775" alt="Risk112_screenshot" src="https://github.com/user-attachments/assets/e297215d-e65e-4b1c-9bb2-dc5f54e6a27f" />
