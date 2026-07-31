@@ -1,8 +1,8 @@
 # Risk112
  
 A multi-player, offline implementation of the classic board game **Risk**, built in Python with a full graphical interface.
- 
-<img width="1298" height="775" alt="Risk112_screenshot" src="https://github.com/user-attachments/assets/e297215d-e65e-4b1c-9bb2-dc5f54e6a27f" />
+
+ <img width="800" height="479" alt="ScreenRecording2026-07-30at7 56 12PM-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8388e0d8-91b1-413a-b7c9-f18c18a99335" />
  
 ## About
  
@@ -36,4 +36,6 @@ python Risk112.py
 ## Built with
 - Python
 - [CMU Graphics](https://academy.cs.cmu.edu/desktop)
- 
+
+
+ <img width="1298" height="775" alt="Risk112_screenshot" src="https://github.com/user-attachments/assets/e297215d-e65e-4b1c-9bb2-dc5f54e6a27f" />
